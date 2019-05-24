@@ -8,7 +8,6 @@
 <p>I will <em>ALWAYS FAVOR ACTION</em> over <i>talking, wishing, hoping, and wondering</i></p>
 <p><em>I WILL ALLOW MYSELF</em> to achieve my dreams</p>
 <p>I am a <em>FULL STACK DEVELOPER!</em></p>
-Collapse
 
 
 
